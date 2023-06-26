@@ -1,1 +1,9 @@
-# burger_landing
+<div>
+  <h1>Сайт для заказа Бургеров</h1>
+  <ul>
+    <li>Технологии <b>HTML+CSS+JS</b></li>
+    <li><b>Адаптивный</b> дизайн</li>
+    <li><i>Верстка сайта в рамках интенсива "Frontend.Start"<i></li>
+  </ul>
+  <br>
+  </div>
